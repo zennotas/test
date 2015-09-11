@@ -1,5 +1,1 @@
-<<<<<<< master
-bullshit
-=======
-testmerge
->>>>>>> local
+viskas ok
