@@ -1,6 +1,1 @@
-<<<<<<< Domo
 viskas ok
-=======
-Lorem ipsum do
-c sed lectus mus, vel sollicituhdin tincidunt nulla wisi. Eget in porta iaculis et. Lacus wisi viverra lorem. Wisi neque donec orci, parturient eu diam ultrices quis ultricies urna, facilisi maecenas eu nunc semper hendrerit. Semper ante sodales a orci, nulla vel non, dictum pellentesque cras. Viverra blandit in nunc, tincidunt dui ut conubia et vestibulum ante, amet a orci placerat maecenas, laoreet sodales nec.
->>>>>>> local
